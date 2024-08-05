@@ -1,0 +1,15 @@
+package p2;
+
+import p.P1;
+
+public class P3 {
+	public static void main(String[] args) {
+		
+	
+	P1 firstObj = new P1();
+	firstObj.a = 10;
+	firstObj.b = 10;
+	firstObj.c = 10;
+	firstObj.d = 10;
+	}
+}
