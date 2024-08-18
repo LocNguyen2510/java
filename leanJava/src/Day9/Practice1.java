@@ -10,7 +10,7 @@ public class Practice1 {
 		a1.add("arrayList");
 		a1.add("Sourt");
 		a1.remove(1);
-		System.out.println(a1 + " " + a1.size());
+		System.out.println(a1.toString() + " " + " " + a1.get(1) +" "+ a1.size());
 
 	}
 }
