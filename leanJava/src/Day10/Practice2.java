@@ -13,6 +13,11 @@ public class Practice2 {
 		this.id = id;
 	}
 
+	@Override
+	public String toString() {
+		return "Practice2 [name=" + name + ", id=" + id + "]";
+	}
+
 	public String getName() {
 		return name;
 	}
