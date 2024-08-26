@@ -1,13 +1,14 @@
 package Day13;
 
-public class SinhVien {
+public abstract class SinhVien {
 	protected int id;
 	protected String name;
 	protected double price;
 	protected double tax;
 
-	public double priceTax() {
+	abstract void tinhDiem();
 
+	public double priceTax() {
 		return this.price * this.tax;
 	}
 
