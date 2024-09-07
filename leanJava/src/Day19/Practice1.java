@@ -13,7 +13,9 @@ public class Practice1 {
 					System.out.println("ket qua la:" + 10 / x);
 					break;
 				} catch (Exception e) {
+
 					System.out.println("khong nhap x = 0");
+
 					continue;
 				}
 			} catch (Exception e) {
