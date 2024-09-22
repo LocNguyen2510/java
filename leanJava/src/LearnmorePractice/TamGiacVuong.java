@@ -3,7 +3,7 @@ package LearnmorePractice;
 import java.util.Scanner;
 
 public class TamGiacVuong {
-	public static void main(String[] args) {
+	public static void abc(String[] args) {
 		int a, b, c;
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Nhap a");

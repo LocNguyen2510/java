@@ -3,7 +3,7 @@ package LearnmorePractice;
 import java.util.Scanner;
 
 public class Sum {
-	public static void main(String[] args) {
+	public static void bcd(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int n;
 		n = scanner.nextInt();
