@@ -23,5 +23,6 @@ public class Array {
 		ketQua = ketQua / n;
 
 		System.out.println("Trung bình cộng của các số nguyên là: " + ketQua);
+		sc.close();
 	}
 }

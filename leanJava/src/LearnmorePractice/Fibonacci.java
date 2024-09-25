@@ -22,5 +22,7 @@ public class Fibonacci {
 		Fi = fibonacci.CalculateFi(n);
 
 		System.out.println("Fi(" + n + ") = " + Fi);
+		sc.close();
 	}
+
 }
