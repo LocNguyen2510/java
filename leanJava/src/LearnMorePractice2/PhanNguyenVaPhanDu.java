@@ -2,7 +2,7 @@ package LearnMorePractice2;
 
 public class PhanNguyenVaPhanDu {
 
-	public static void main(String[] args) {
+	public static void du(String[] args) {
 
 		int divid = 20;
 
