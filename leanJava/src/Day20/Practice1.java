@@ -10,7 +10,7 @@ public interface Practice1 {
 			int x = scanner.nextInt();
 			System.out.println("run try");
 		} catch (Exception e) {
-			System.out.println("run catch");
+
 			// TODO: handle exception
 		} finally {
 			System.out.println("run finally");
